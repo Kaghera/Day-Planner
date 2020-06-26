@@ -32,7 +32,7 @@ $(document).ready(function() {
     planTextArr = plans;
   } else {
     planTextArr = new Array(9);
-    planTextArr[4] = "Picnic lunch outside";
+    planTextArr[0] = "Hello World";
   }
 
   if (test) { console.log("full array of plned text",planTextArr); }
