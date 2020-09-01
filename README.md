@@ -8,3 +8,5 @@
   * A save button
 
 ![Screen Shot 2020-06-26 at 12 00 39 AM](https://user-images.githubusercontent.com/63524583/85819121-a8712a00-b740-11ea-997f-05e6ce2ee52d.png)
+
+Application link: https://kaghera.github.io/Day-Planner/
